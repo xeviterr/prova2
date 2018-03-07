@@ -18,6 +18,7 @@ namespace helloWorld
         public static void f1()
         {
             Console.WriteLine("Soc la funció1, soc en Xevi.");
+        
         }
 
         public static void f2()
