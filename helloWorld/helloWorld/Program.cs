@@ -23,7 +23,7 @@ namespace helloWorld
 
         public static void f2()
         {
-            ;
+            Console.WriteLine("Faig una modificació soc en Xevi.");
         }
     }
 }
