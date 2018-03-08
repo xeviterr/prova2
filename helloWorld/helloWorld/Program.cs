@@ -23,7 +23,7 @@ namespace helloWorld
 
         public static void f2()
         {
-            Console.WriteLine("Soc la funció2");
+            Console.WriteLine("Soc la funció2, faig una segona modificació.");
         }
     }
 }
