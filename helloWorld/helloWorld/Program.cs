@@ -18,7 +18,7 @@ namespace helloWorld
         public static void f1()
         {
             Console.WriteLine("Soc la funció1, soc en Xevi.");
-        
+            Console.WriteLine("Soc la funció1, soc en Xevi i torno a manipular.");
         }
 
         public static void f2()
