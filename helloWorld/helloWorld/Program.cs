@@ -24,6 +24,7 @@ namespace helloWorld
         public static void f2()
         {
             Console.WriteLine("Soc la funció2, faig una segona modificació.");
+            Console.WriteLine("Faig una modificació soc en Xevi.");
         }
     }
 }
